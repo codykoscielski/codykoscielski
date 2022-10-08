@@ -1,9 +1,9 @@
 # Hi there, I'm Cody 👋
 ### **`Front-End Web Developer`**
 
-Welcome to my GitHub profile! 
-
-Welcome to my GitHub profile! You will find all my ongoing, current, and completed projects here. I am primarily a front-end JavaScript developer, but I also like to explore other areas of web development such as backend, DevOps, databases, and UI/UX design. Coding is something that I have always been passionate about since I graduated from Penn State University. I am currently working as a web developer building client websites in WordPress and building an inhouse application using ReactJS. If you would like to see more of my completed work and links to working demos, you can check out my portfolio website <a href="codykoscielski.com">here</a>.
+ <p align="left">
+    Welcome to my GitHub profile! You will find all my ongoing, current, and completed projects here. I am primarily a front-end JavaScript developer, but I also like to explore other areas of web development such as backend, DevOps, databases, and UI/UX design. Coding is something that I have always been passionate about since I graduated from Penn State University. I am currently working as a web developer building client websites in WordPress and building an inhouse application using ReactJS. If you would like to see more of my completed work and links to working demos, you can check out my portfolio website <a href="codykoscielski.com">here</a>.
+ </p>
 
 ## Languages and Programming Tools
 
