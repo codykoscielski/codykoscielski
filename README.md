@@ -21,9 +21,9 @@ Welcome to my GitHub profile! You will find all my ongoing, current, and complet
 #
 
 ## Currently Learning 
-PHP
+
 <img align="left" alt="php" width="50px" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-plain.svg" />
-Laravel
+
 <img align="left" alt="laravel" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/laravel/laravel-plain.svg" />
 
 
