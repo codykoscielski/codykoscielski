@@ -1,5 +1,5 @@
 # Hi there, I'm Cody 👋
-### **`Front-End Web Developer`**
+### **`I am a Web Developer`**
 
 Welcome to my GitHub profile! You will find all my ongoing, current, and completed projects here. I am primarily a front-end JavaScript developer, but I also like to explore other areas of web development such as backend, DevOps, databases, and UI/UX design. Coding is something that I have always been passionate about since I graduated from Penn State University. I am currently working as a web developer building client websites in WordPress and building an inhouse application using ReactJS. If you would like to see more of my completed work and links to working demos, you can check out my portfolio website "[here][website]".
 
@@ -10,18 +10,17 @@ Welcome to my GitHub profile! You will find all my ongoing, current, and complet
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/iconsfordevs@2.5.0/!SVG/nodejs_small.svg" />
-<img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/iconsfordevs@2.5.0/!SVG/firebase.svg" />
+<img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/iconsfordevs@2.5.0/!SVG/visualstudio.svg" />
+<img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" />
 <br/>
 
 #
 
 ## Currently Learning 
-
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/laravel/laravel-plain.svg" />
+Laravel
+<img align="left" alt="laravel" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/laravel/laravel-plain.svg" />
 
 
 [website]: https://codykoscielski.com/
