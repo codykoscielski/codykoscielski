@@ -1,7 +1,11 @@
 # Hi there, I'm Cody 👋
 ### **`Web Developer`**
 
-Welcome to my GitHub profile! You will find all my ongoing, current, and completed projects here. I am primarily a front-end JavaScript developer, but I also like to explore other areas of web development such as backend, databases, and UI/UX design. Coding is something that I have always been passionate about since I graduated from Penn State University. I am currently working as a web developer building client websites in WordPress and HubSpot but also building an inhouse application using Laravel. If you would like to see more of my completed work and links to working demos, you can check out my portfolio website "[here][website]".
+Hello! Welcome to my GitHub profile. This is where you'll find all my web development projects. 
+
+I graduated from Penn State University and since then, coding has been my passion. I'm currently working as a web developer, building websites with different technology stacks, WordPress, HubSpot, and working on WordPress Theme Development. I'm also creating an inhouse application using PHP.
+
+Right now, I'm learning more about PHP, Laravel, and WordPress theme development. If you want to see more of my work and some live demos, you can visit my portfolio website. Thanks for stopping by! "[here][website]".
 
 
 ## Languages and Programming Tools
