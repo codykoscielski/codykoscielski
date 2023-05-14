@@ -5,7 +5,7 @@ Hello! Welcome to my GitHub profile. This is where you'll find all my web develo
 
 I graduated from Penn State University and since then, coding has been my passion. I'm currently working as a web developer, building websites with different technology stacks, WordPress, HubSpot, and working on WordPress Theme Development. I'm also creating an inhouse application using PHP.
 
-Right now, I'm learning more about PHP, Laravel, and WordPress theme development. If you want to see more of my work and some live demos, you can visit my portfolio website. Thanks for stopping by! "[here][website]".
+Right now, I'm learning more about PHP, Laravel, and WordPress theme development. If you want to see more of my work and some live demos, you can visit my portfolio website "[here][website]". Thanks for stopping by! .
 
 
 ## Languages and Programming Tools
