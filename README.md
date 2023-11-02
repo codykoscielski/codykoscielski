@@ -3,9 +3,9 @@
 
 Hello! Welcome to my GitHub profile. This is where you'll find all my web development projects. 
 
-I graduated from Penn State University and since then, coding has been my passion. I'm currently working as a web developer, building websites with different technology stacks, WordPress, HubSpot, and working on WordPress Theme Development. I'm also creating an inhouse application using PHP.
+I graduated from Penn State University and since then, coding has been my passion. I am currently working at Carnegie Mellon University as a Web Developer. 
 
-Right now, I'm learning more about PHP, Laravel, and WordPress theme development. If you want to see more of my work and some live demos, you can visit my portfolio website "[here][website]". Thanks for stopping by!
+Thanks for stopping by!
 
 
 ## Languages and Programming Tools
@@ -30,5 +30,3 @@ Right now, I'm learning more about PHP, Laravel, and WordPress theme development
 I am currently learning and building projects with PHP
 
 <img align="left" alt="php" width="50px" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-plain.svg" />
-
-[website]: https://codykoscielski.com/
