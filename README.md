@@ -1,7 +1,8 @@
 # Hi, I'm Cody, I make things for the web 👋
 
 Welcome to my GitHub profile. This is where you'll find all my ***almost finished*** web development projects and what I am currently learning more about. 
-<p>Currently Learning:</p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
+<p>Currently Learning:</p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="go" width="40" height="40"/> 
+
 
 
 ## Stuff and Things
