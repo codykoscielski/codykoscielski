@@ -1,9 +1,7 @@
-# Hi👋
+## What's up nerds?
 
-Welcome to my GitHub profile. This is where you'll find all my ***almost finished*** web development projects. 
-<p>Currently Learning:</p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="go" width="40" height="40"/> 
-
-
+<p>My name is Cody and I am a software engineer at Carnegie Mellon Univeristy</p>
+<p>Currently messing around with:</p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
 
 ## Stuff and Things
 
@@ -16,4 +14,4 @@ Welcome to my GitHub profile. This is where you'll find all my ***almost finishe
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <br /><br />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codykoscielski&label=Profile%20views&color=880eb4&style=plastic" alt="linkinlog" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codykoscielski&label=Profile%20views&color=880eb4&style=plastic" alt="codykoscielski" /> </p>
